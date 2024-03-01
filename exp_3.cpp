@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     
-    cout<<"stack equaizier program"<<endl;
+    cout<<"stack height equalizing program\n------------------------------------------------"<<endl;
     
     cout<<"enter the height of all three stacks n1,n2,n3:";
     int n1,n2,n3;
